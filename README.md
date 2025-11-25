@@ -1,25 +1,63 @@
-# Super Mart Billing System
+# 🛒 Super Mart Billing System
 
-## Description
-The **Super Mart Billing System** is a JavaFX-based GUI application that simulates a supermarket billing process. Users can enter their personal details, browse product categories, add items to the cart, view previous orders, calculate totals including GST, and confirm purchases through an interactive and user-friendly interface. This project demonstrates object-oriented programming concepts, GUI development, and basic data handling in Java.
+## 📌 Overview
 
-## Features
-- **User Details Input:** Enter name, contact number, email, and address.
-- **Browse Categories:** Explore different product categories such as Beverages, Fruits & Vegetables, Dairy, Snacks, Bakery, and more.
-- **Add to Cart:** Select items from categories and add them to the shopping cart.
-- **Cart Management:** View cart items, remove items, and check quantities.
-- **Checkout:** Calculate totals, including GST, and confirm the purchase.
-- **Previous Orders:** Keep track of past orders with a simple order history display.
-- **Interactive GUI:** Simple and intuitive JavaFX interface with buttons, lists, and alerts.
+The **Super Mart Billing System** is a JavaFX-based desktop application that simulates a real supermarket billing workflow. Users can enter personal details, browse product categories, add items to a cart, review purchase history, and generate a final bill with GST — all through an intuitive and interactive GUI.
+This project showcases **OOP concepts, GUI development, event handling, and basic data management** in Java.
 
-## Technologies Used
-- **Java 17+**
-- **JavaFX** for GUI development
+---
 
-- ## Setup Instructions
+## ⭐ Features
 
-### Prerequisites
-- Install **Java JDK 17+**
-- Install **JavaFX SDK**
-- A code editor like **VS Code** or **IntelliJ IDEA**
-- Git for version control
+### 🧑‍💼 User Information
+
+* Input name, contact number, email, and address
+* Simple and organized customer form
+
+### 🛍️ Product Categories
+
+* Browse items from multiple departments:
+  **Beverages, Fruits & Vegetables, Dairy, Snacks, Bakery**, and more
+* Click-based selection for easy browsing
+
+### 🛒 Cart System
+
+* Add selected products to the cart
+* Remove or update quantities
+* Real-time total updates
+
+### 💳 Checkout Process
+
+* Automatic total calculation
+* GST included
+* Purchase confirmation prompt
+
+### 📜 Order History
+
+* Maintain and view previous orders
+* Quick access to past purchase data
+
+### 🖥️ User-Friendly JavaFX Interface
+
+* Clean layout
+* Buttons, lists, alerts, and smooth navigation
+* Good for beginners learning GUIs in Java
+
+---
+
+## 🧰 Technologies Used
+
+* **Java 17+**
+* **JavaFX** for GUI
+* Basic file/data handling
+
+---
+
+## ⚙️ Setup Instructions
+
+### 📌 Prerequisites
+
+* Install **Java JDK 17+**
+* Download and configure **JavaFX SDK**
+* Use a Java-friendly editor (recommended: **IntelliJ IDEA** or **VS Code**)
+* Install **Git** for version control
